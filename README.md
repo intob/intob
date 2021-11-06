@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dr-useless
+- 👋 Hi, I’m Joey
 - 👀 I’m interested in web privacy, communication, distributed & decentralized software
 - 🌱 I’m currently learning about WebRTC
 - 💞️ I’m looking for help with npchat, a modern, federated approach to IM
